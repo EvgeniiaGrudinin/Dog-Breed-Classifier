@@ -5,3 +5,10 @@ Images in this repository intended for testing of our model.
 
 
 file report.html-html version of .ipynb file
+
+
+1. Download the dog dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/dogImages.
+
+2. Download the human dataset. Unzip the folder and place it in the repo, at location path/to/dog-project/lfw. If you are using a Windows machine, you are encouraged to use 7zip to extract the folder.
+
+3. Donwload the VGG-16 bottleneck features for the dog dataset. Place it in the repo, at location path/to/dog-project/bottleneck_features.
