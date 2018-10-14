@@ -10,4 +10,6 @@ file report.html-html version of .ipynb file
 
 3. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
 
+4. Open jupyter file dog-app.ipynb
+
 
